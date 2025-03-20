@@ -17,6 +17,10 @@ In order to use this application, simply click on the navigation links along the
  GitHub:  https://github.com/pebbsmom/kanban_board
 
 
+HOW TO USE
+
+https://github.com/user-attachments/assets/35e2bd2d-0fc1-46c4-8556-a8cab115965c
+
 
 
 
