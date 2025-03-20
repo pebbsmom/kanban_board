@@ -11,10 +11,10 @@ This application is a Kanban Board with JWT authentication that allows users to 
 ## Installation
 1) Clone this repo onto your local computer using 'git clone'. 2) Make sure you install all the necessary dependencies by running 'npm install' in the terminal. 3)  Build the application by running 'npm run build' 4) Run the application on your localhost by running 'npm run start' 4) You should  be able to see the webpage in localhost. 6) Simply enter a valid username and password to securely login and create tickets.
 ## Usage
-In order to use this application, simply click on the navigation links along the top of the application.  The application can be found here on  Render
+In order to use this application, simply click on the navigation links along the top of the application.  The application can be found here on  Render https://kanban-board-2-zwhk.onrender.com/
 
 
- GitHub:  
+ GitHub:  https://github.com/pebbsmom/kanban_board
 
 
 
